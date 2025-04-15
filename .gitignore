@@ -3,4 +3,6 @@ _site/
 .jekyll-metadata
 .bundle
 vendor/
+/.vs/slnx.sqlite
 .vs/
+
