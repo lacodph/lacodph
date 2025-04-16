@@ -4,6 +4,7 @@ machine:
 dependencies:
   pre:
     - script/setup
+    
 test:
   override:
     - script/cibuild
