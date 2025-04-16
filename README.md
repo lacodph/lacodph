@@ -1,4 +1,4 @@
-# GitHub for Developers
+# GitHub for All Developers
 
 - Class Date: April 15-21, 2025
 - Facilitator: @jbarbosa26
