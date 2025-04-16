@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+Vicente Perez modify conflict branch
 
 ![droidtocat](https://octodex.github.com/images/droidtocat.png)
 {: .center}
